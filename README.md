@@ -11,7 +11,7 @@
 
 
 
-![Respuesta del Laboratorio de Frecuencias]<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png) />
+<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png) />
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-![Respuesta del Laboratorio de Métodos Sobrecargados]<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Repuesta%20Laboratorio%20Metodos%20Sobrecargados.png) />
+<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Repuesta%20Laboratorio%20Metodos%20Sobrecargados.png) />
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-![Respuesta del Laboratorio de Recursividad]<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Recursividad.png) /> 
+<img src = (https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Recursividad.png) /> 
 
 
 
