@@ -1,14 +1,33 @@
-Laboratorio N5 Laboratorios Varios
+\## Laboratorio N5 Laboratorios Varios
 
-Creado por: Tomás Vezga
-Cédula: E - 8 - 217973
-Grupo: 1IL - 133
+\# Creado por: Tomás Vezga
+# Cédula: E - 8 - 217973
+# Grupo: 1IL - 133
+# Respuesta de Laboratorios
 
-Respuesta de Laboratorios
-!\[- Laboratorio de Frecuenia]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Frecuencias.png>)
-!\[- Laboratorio de Metodo Sobrecargado]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Repuesta Laboratorio Metodos Sobrecargados.png>)
-!\[- Laboratorio de Recursividad]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Recursividad.png>)
+
+
+\## Laboratorio de Frecuencias
+
+
+
+!\[Respuesta del Laboratorio de Frecuencias](./Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png)
+
+
+
+\## Laboratorio de Métodos Sobrecargados
+
+
+
+!\[Respuesta del Laboratorio de Métodos Sobrecargados](./Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Repuesta%20Laboratorio%20Metodos%20Sobrecargados.png)
+
+
+
+\## Laboratorio de Recursividad
+
+
+
+!\[Respuesta del Laboratorio de Recursividad](./Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Recursividad.png)
+
+
 
