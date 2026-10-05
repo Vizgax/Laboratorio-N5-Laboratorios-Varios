@@ -1,0 +1,14 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\bin\Debug\net10.0\Laboratorio Metodo Sobrecargado.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\bin\Debug\net10.0\Laboratorio Metodo Sobrecargado.deps.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\bin\Debug\net10.0\Laboratorio Metodo Sobrecargado.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\bin\Debug\net10.0\Laboratorio Metodo Sobrecargado.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\bin\Debug\net10.0\Laboratorio Metodo Sobrecargado.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\refint\Laboratorio Metodo Sobrecargado.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\Laboratorio Metodo Sobrecargado.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Laboratorio Metodo Sobrecargado\obj\Debug\net10.0\ref\Laboratorio Metodo Sobrecargado.dll
