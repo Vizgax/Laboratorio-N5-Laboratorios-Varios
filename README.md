@@ -11,7 +11,7 @@
 
 
 
-(https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/blob/main/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png)
+![Respuesta](https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/blob/main/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png)
 
 
 ## Laboratorio de Métodos Sobrecargados
