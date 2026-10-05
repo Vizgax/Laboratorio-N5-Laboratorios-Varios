@@ -6,9 +6,9 @@ Grupo: 1IL - 133
 
 Respuesta de Laboratorios
 !\[- Laboratorio de Frecuenia]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Frecuencias>)
+(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Frecuencias.png>)
 !\[- Laboratorio de Metodo Sobrecargado]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Repuesta Laboratorio Metodos Sobrecargados>)
+(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Repuesta Laboratorio Metodos Sobrecargados.png>)
 !\[- Laboratorio de Recursividad]
-(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Recursividad>)
+(<https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio N5 Laboratorios Varios/Imagenes Respuestas/Respuesta Laboratorio Recursividad.png>)
 
