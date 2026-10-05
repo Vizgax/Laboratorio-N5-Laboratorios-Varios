@@ -11,8 +11,7 @@
 
 
 
-<img src = ([https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/Laboratorio%20N5%20Laboratorios%20Varios/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png](https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/blob/main/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png)) />
-
+(https://github.com/Vizgax/Laboratorio-N5-Laboratorios-Varios/blob/main/Imagenes%20Respuestas/Respuesta%20Laboratorio%20Frecuencias.png)
 
 
 ## Laboratorio de Métodos Sobrecargados
